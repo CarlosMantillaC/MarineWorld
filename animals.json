@@ -1,0 +1,92 @@
+[
+  {
+    "nombre_comun": "Pez gota",
+    "nombre_cientifico": "Psychrolutes marcidus",
+    "habitat": "Profundidades marinas entre 600 y 1200 metros frente a las costas de Australia y Tasmania.",
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Two_Psychrolutes_marcidus.jpg"
+  },
+  {
+    "nombre_comun": "Dragón de mar foliado",
+    "nombre_cientifico": "Phycodurus eques",
+    "habitat": "Costas del sur y oeste de Australia, en aguas poco profundas con algas marinas.",
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Leafydragon.jpg"
+  },
+  {
+    "nombre_comun": "Calamar vampiro",
+    "nombre_cientifico": "Vampyroteuthis infernalis",
+    "habitat": "Zonas de mínima oxigenación entre 600 y 900 metros de profundidad en océanos tropicales y templados.",
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Vampyroteuthis_infernalis.jpg/1024px-Vampyroteuthis_infernalis.jpg"
+  },
+  {
+    "nombre_comun": "Pez murciélago de labios rojos",
+    "nombre_cientifico": "Ogcocephalus darwini",
+    "habitat": "Fondos arenosos cerca de las Islas Galápagos a profundidades de hasta 100 metros.",
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Red-lipped_Bat_fish.jpg/1024px-Red-lipped_Bat_fish.jpg"
+  },
+  {
+    "nombre_comun": "Narval",
+    "nombre_cientifico": "Monodon monoceros",
+    "habitat": "Ártico canadiense, Groenlandia y Rusia; zonas frías con hielo marino estacional.",
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/%D0%9D%D0%B0%D1%80%D0%B2%D0%B0%D0%BB_%D0%B2_%D1%80%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9_%D0%90%D1%80%D0%BA%D1%82%D0%B8%D0%BA%D0%B5.jpg/1024px-%D0%9D%D0%B0%D1%80%D0%B2%D0%B0%D0%BB_%D0%B2_%D1%80%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9_%D0%90%D1%80%D0%BA%D1%82%D0%B8%D0%BA%D0%B5.jpg"
+  },
+  {
+    "nombre_comun": "Pez linterna",
+    "nombre_cientifico": "Myctophidae",
+    "habitat": "Océanos profundos, entre los 200 y 1000 metros, donde migran verticalmente durante la noche.",
+    "imagen": "https://www.cronicabalear.es/access/public/img/noticias/upload/0_1738880184.jpg"
+  },
+  {
+    "nombre_comun": "Pepino de mar púrpura",
+    "nombre_cientifico": "Parastichopus californicus",
+    "habitat": "Fondos fangosos y arenosos de la costa del Pacífico de América del Norte.",
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Actinopyga_echinites1.jpg/1024px-Actinopyga_echinites1.jpg"
+  },
+  {
+    "nombre_comun": "Medusa peine",
+    "nombre_cientifico": "Mnemiopsis leidyi",
+    "habitat": "Atlántico occidental, pero invadió el Mar Negro y el Mediterráneo. Vive en aguas superficiales.",
+    "imagen": "https://imagenes.elpais.com/resizer/v2/OXVI62JE2NE5DCDK2ISDP3ZBNM.jpg?auth=e880a42ead005b6675bc327ec04b1c8ec7511660c9b980ba938fa5390f320ebc&width=980&height=980&smart=true"
+  },
+    {
+    "nombre_comun": "Pez dragón de mar profundo",
+    "nombre_cientifico": "Grammatostomias flagellibarba",
+    "habitat": "Océanos profundos del mundo, entre 500 y 1500 metros de profundidad.",
+    "imagen": "https://ethic.es/wp-content/uploads/2022/06/jjj.jpg"
+  },
+  {
+    "nombre_comun": "Tiburón duende",
+    "nombre_cientifico": "Mitsukurina owstoni",
+    "habitat": "Océanos Atlántico, Pacífico e Índico, a profundidades entre 100 y 1200 metros.",
+    "imagen": "https://okdiario.com/img/2019/11/07/el-tiburon-duende-y-su-peculiar-aspecto-1.jpg"
+  },
+  {
+    "nombre_comun": "Ctenóforo Venus",
+    "nombre_cientifico": "Cestum veneris",
+    "habitat": "Aguas cálidas y superficiales del océano abierto.",
+    "imagen": "https://animales-itonids.com/wp-content/uploads/2022/05/ctenoforo-cestum-tentaculata.webp"
+  },
+  {
+    "nombre_comun": "Camarón mantis",
+    "nombre_cientifico": "Odontodactylus scyllarus",
+    "habitat": "Arrecifes tropicales del océano Índico y Pacífico, en madrigueras.",
+    "imagen": "https://diariodelhuila.com/wp-content/uploads/1-286.webp"
+  },
+  {
+    "nombre_comun": "Caracol escamoso de pie escudo",
+    "nombre_cientifico": "Chrysomallon squamiferum",
+    "habitat": "Fumarolas hidrotermales del Océano Índico a más de 2000 m de profundidad.",
+    "imagen": "https://www.ecoportal.net/wp-content/uploads/2022/08/caracol-rdn.jpg"
+  },
+  {
+    "nombre_comun": "Medusa melena de león",
+    "nombre_cientifico": "Cyanea capillata",
+    "habitat": "Aguas frías del Ártico y del norte del Atlántico y Pacífico.",
+    "imagen": "https://static.nationalgeographicla.com/files/styles/image_3200/public/nationalgeographic2717035.jpg?w=1600&h=1067"
+  },
+  {
+    "nombre_comun": "Pez remo",
+    "nombre_cientifico": "Regalecus glesne",
+    "habitat": "Océanos templados y tropicales, normalmente entre 200 y 1000 metros de profundidad.",
+    "imagen": "https://www.eluniverso.com/resizer/VHus_lKXsa_Pcd6PP2PCafezHBQ=/arc-anglerfish-arc2-prod-eluniverso/public/SDNFBXC3A5BRLB6Y4QGDOB2R34.jpg"
+  }
+]
